@@ -1,0 +1,9 @@
+# ignore datasets & env
+data/
+data/raw/*.zip
+mlruns/
+.venv/
+__pycache__/
+*.pyc
+*.pth
+*.pt
